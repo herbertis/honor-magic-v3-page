@@ -5,7 +5,6 @@ Landing page responsiva desenvolvida para apresentar o **HONOR Magic V3**, desta
 Projeto focado em **UI Engineering, performance, UX e design responsivo**, seguindo padrões modernos de front-end utilizados em páginas de lançamento de produtos.
 
 🔗 **Preview online:**  
-👉 https://herbertis.github.io/honor-magic-v3-page/  
 👉 https://www.honor.com.br/magic-v3
 
 ---
